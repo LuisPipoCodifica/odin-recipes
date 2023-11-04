@@ -1,0 +1,2 @@
+As for the Iintroduction for this repository, this will be my first project for "The Odin Project" course curriculum.
+Here I'll do this in self-reflection way in which at the en of the project I'll be sumarizing everything, that way i'll be able to tell exactly what I learned while doing this.git 
